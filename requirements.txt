@@ -1,5 +1,5 @@
 twisted>=15.2.1
-cryptography>=0.9.1
+cryptography
 configparser
 pyopenssl
 gmpy2
